@@ -1,5 +1,7 @@
 # jokes-bapack2-api
-Kumpulan Jokes Bapack2
+*Kumpulan Jokes Bapack2 masa kini!*
+
+![Jokes Bapack2](/storage/jokes-bapack2-image.jpeg "Jokes Bapack2")
 
 ## Requirements
 - PHP
@@ -28,3 +30,6 @@ Kumpulan Jokes Bapack2
 }
 ```
 
+## Donation
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T02OS5W)
