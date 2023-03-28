@@ -6,7 +6,7 @@
 ## Requirements
 - PHP
 - Composer
-- Heroku
+- Vercel
 
 ## How to Run
 - clone this repository
